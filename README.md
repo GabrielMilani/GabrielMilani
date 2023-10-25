@@ -23,7 +23,7 @@
 <div>
     <img align="center" alt="Delphi" src="https://img.shields.io/badge/Delphi-CC2927%3F?style=for-the-badge&logo=delphi&logoColor=white&labelColor=red&color=red">
     <img align="center" alt="FireBirdSql" src="https://img.shields.io/badge/FIRE%20BIRD%20SQL-CC2927?style=for-the-badge">
-    <img align="center" alt="MySql" src="	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="SqlServer" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
     <img align="center" alt="PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-CC2927%3F?style=for-the-badge&logo=GIT&logoColor=white&labelColor=ff4700&color=ff4700">
